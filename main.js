@@ -2,12 +2,12 @@ import 'scroll-triggers';
 
 // Initialize Firebase (ADD YOUR OWN DATA)
 var config = {
-  apiKey: "xxxxx",
-  authDomain: "xxxxx",
-  databaseURL: "xxxxx",
-  projectId: "xxxxx",
-  storageBucket: "xxxxx",
-  messagingSenderId: "xxxxx"
+  apiKey: "AIzaSyA9VpnncQtXeiASQ_kuIHSWvv0c2dEteKk",
+  authDomain: "contactform-1be84.firebaseapp.com",
+  databaseURL: "https://contactform-1be84.firebaseio.com",
+  projectId: "contactform-1be84",
+  storageBucket: "contactform-1be84.appspot.com",
+  messagingSenderId: "861580409827"
 };
 firebase.initializeApp(config);
 
