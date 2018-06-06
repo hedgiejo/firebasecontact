@@ -1,7 +1,7 @@
 {
   "projects": {
-    "default": "contactform-1be84",
-    "contactForm": "contactform-1be84",
-    "messages": "message-1cb8c"
+    "contact": "contactform-1be84",
+    "contactform": "contactform-1be84",
+    "default": "contactform-1be84"
   }
 }

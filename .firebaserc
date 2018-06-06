@@ -1,5 +1,7 @@
 {
   "projects": {
-    "contact": "contactform-1be84"
+    "contact": "contactform-1be84",
+    "contactform": "contactform-1be84",
+    "default": "contactform-1be84"
   }
 }
